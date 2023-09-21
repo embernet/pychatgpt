@@ -1,4 +1,4 @@
-# PyChat
+# PyChatGPT
 
 A simple python chat program that uses the OpenAI API
 
